@@ -1,0 +1,126 @@
+.home-page-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.certification-and-sample-collection-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+  flex-grow: 1;
+}
+
+.certification-container {
+  display: flex;
+  align-items: center;
+  margin-right: 26px;
+}
+
+.nabl-logo {
+  height: 60px;
+  width: 60px;
+  margin-right: 6px;
+}
+
+.nabl-text {
+  color: #242e32;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.sample-collection-container {
+  display: flex;
+  align-items: center;
+}
+
+.lab-sample-image {
+  height: 50px;
+  width: 50px;
+  border-radius: 10px;
+  margin-right: 6px;
+}
+
+.lab-samples-text {
+  color: #242e32;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.keep-expanding-heading {
+  color: #222b2e;
+  font-size: 38px;
+  font-family: 'Roboto';
+  font-weight: 600;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.special-expanding {
+  color: #69b1d1;
+}
+
+.multiple-tabs-container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-around;
+  flex-grow: 1;
+}
+
+.tab-container {
+  background-color: #80c6e5;
+  border: none;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 6px 20px 6px 20px;
+}
+
+.tab-count-text {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: 600;
+}
+
+.tab-text {
+  color: #ffffff;
+  font-size: 22px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.top-packgages {
+  color: #222b2e;
+  font-size: 38px;
+  font-family: 'Roboto';
+  font-weight: 600;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.special-package-text {
+  color: #69b1d1;
+}
+
+.text {
+  color: gray;
+  font-size: 22px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.lab-tests-container {
+  display: flex;
+  align-items: cenetr;
+  width: 100%;
+  flex-wrap: wrap;
+  flex-grow: 1;
+}

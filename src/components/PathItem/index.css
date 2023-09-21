@@ -1,0 +1,19 @@
+.path {
+  list-style-type: none;
+}
+
+.path-button {
+  background-color: transparent;
+  border: none;
+  color: black;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  margin-right: 20px;
+}
+
+.active-path {
+  color: skyblue;
+  font-weight: 500;
+  font-size: 22px;
+}

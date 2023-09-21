@@ -1,0 +1,60 @@
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px 24px 6px 24px;
+  width: 100%;
+  max-width: 100%;
+  flex-grow: 1;
+}
+
+.logo-title {
+  color: #154c79;
+  font-size: 35px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.in-text {
+  color: #76b5c5;
+}
+
+.desktop-view-container {
+  display: flex;
+  align-items: center;
+}
+
+.paths-items-container {
+  display: flex;
+  align-items: center;
+}
+
+.buttons-container {
+  display: flex;
+  align-items: center;
+}
+
+.btn {
+  color: white;
+  background-color: #063970;
+  border: none;
+  padding: 8px 24px 8px 24px;
+  border-radius: 6px;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  margin-left: 16px;
+}
+
+.playstore-button {
+  color: white;
+  background-color: black;
+  border: none;
+  padding: 8px 24px 8px 24px;
+  border-radius: 6px;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  margin-left: 20px;
+}
